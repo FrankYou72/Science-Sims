@@ -1,0 +1,10 @@
+Sport,Corinthians,
+Internacional,São Paulo,
+Athletico,Bahia,
+Atlético-MG,Grêmio
+Vasco,Bragantino
+Palmeiras,Flamengo
+Ceará,Goiás
+Atlético-GO,Botafogo
+Santos,Fortaleza
+Fluminense,Coritiba

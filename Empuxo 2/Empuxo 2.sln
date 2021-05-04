@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Empuxo 2", "Empuxo 2.pyproj", "{C303C3F0-B063-473F-9E33-4E2101FA222B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C303C3F0-B063-473F-9E33-4E2101FA222B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C303C3F0-B063-473F-9E33-4E2101FA222B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00AA176-9069-47D1-A1E6-3C8AF0B3FF2C}
+	EndGlobalSection
+EndGlobal

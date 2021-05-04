@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Eletrostática", "Eletrostática.pyproj", "{4864BB0C-2ADF-4FA2-83A4-3DFC98167768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4864BB0C-2ADF-4FA2-83A4-3DFC98167768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4864BB0C-2ADF-4FA2-83A4-3DFC98167768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FC05F5-1DEF-4CAB-9AAC-E3B1023F1714}
+	EndGlobalSection
+EndGlobal

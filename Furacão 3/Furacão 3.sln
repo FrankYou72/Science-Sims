@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Furacão 3", "Furacão 3.pyproj", "{8D1DA2AF-CAC2-4809-9F9E-5175CE95F969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1DA2AF-CAC2-4809-9F9E-5175CE95F969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1DA2AF-CAC2-4809-9F9E-5175CE95F969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D24A76-83B0-498A-AB43-4A8703C838D8}
+	EndGlobalSection
+EndGlobal
